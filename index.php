@@ -12,7 +12,7 @@
 
 </style>
 
-<form action="ejercicio-5.php" method="POST">
+<form action="index.php" method="POST">
 	<input type="text" name="numero">
 	<input type="submit">
 </form>
